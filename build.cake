@@ -1,8 +1,8 @@
-#tool nuget:?package=xunit.runner.console&version=2.2.0
-#tool nuget:?package=xunit.runner.visualstudio&version=2.2.0
+#tool nuget:?package=xunit.runner.console&version=2.3.1
+#tool nuget:?package=xunit.runner.visualstudio&version=2.3.1
 #tool nuget:?package=OpenCover&version=4.6.519
 #tool nuget:?package=JetBrains.dotCover.CommandLineTools&version=2016.2.20160913.100041
-#tool nuget:?package=ReportGenerator&version=2.5.8
+#tool nuget:?package=ReportGenerator&version=3.1.0
 #tool nuget:?package=GitVersion.CommandLine&version=3.6.5
 #tool nuget:?package=OctopusTools&version=4.21.0
 
@@ -140,6 +140,7 @@ Task("Deploy-OctopusDeploy")
     .IsDependentOn("Package-NuGet")
     .Does(() =>
 {
+    Information($"Octopus PUSH");
     OctoPush(
         Urls.OctopusServerUrl,
         EnvironmentVariable("OctopusApiKey"),
@@ -149,6 +150,7 @@ Task("Deploy-OctopusDeploy")
             ReplaceExisting = true
         });
 
+    Information($"Octopus Create Release");
     OctoCreateRelease(
         "Linker",
         new CreateReleaseSettings
@@ -160,6 +162,7 @@ Task("Deploy-OctopusDeploy")
             DeployTo = "Test",
             WaitForDeployment = true
         });
+    Information($"Octopus Release Created");
 });
 
 Task("Deploy-WebDeploy")
