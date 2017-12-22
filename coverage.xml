@@ -75,8 +75,8 @@
       <Classes />
     </Module>
     <Module skippedDueTo="Filter" hash="C3-D8-3E-87-AB-33-CA-6F-66-61-A7-D7-50-2C-CF-D9-C0-D1-9D-8D">
-      <ModulePath>C:\Users\rjj\AppData\Local\Temp\ed3461de-bf39-481a-9186-9b7cf9ad1f2b\ed3461de-bf39-481a-9186-9b7cf9ad1f2b\assembly\dl3\8b8eb262\0024d1eb_dc4ed301\xunit.runner.utility.net452.dll</ModulePath>
-      <ModuleTime>2017-12-22T11:13:33.2502266Z</ModuleTime>
+      <ModulePath>C:\Users\rjj\AppData\Local\Temp\cb20c756-9fe5-4dd2-805a-863c0ad9279f\cb20c756-9fe5-4dd2-805a-863c0ad9279f\assembly\dl3\fe354b5e\0024d1eb_dc4ed301\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2017-12-22T14:56:03.7856923Z</ModuleTime>
       <ModuleName>xunit.runner.utility.net452</ModuleName>
       <Classes />
     </Module>
@@ -297,12 +297,6 @@
       <ModulePath>C:\Git\Linker\src\Tests\bin\Release\NSubstitute.dll</ModulePath>
       <ModuleTime>2017-10-27T20:03:00Z</ModuleTime>
       <ModuleName>NSubstitute</ModuleName>
-      <Classes />
-    </Module>
-    <Module skippedDueTo="Filter" hash="EC-77-40-66-0D-21-57-B9-9B-2A-BF-90-5C-71-A5-2A-F8-0A-59-8E">
-      <ModulePath>C:\Git\Linker\src\Tests\bin\Release\FluentAssertions.dll</ModulePath>
-      <ModuleTime>2017-08-24T19:09:18Z</ModuleTime>
-      <ModuleName>FluentAssertions</ModuleName>
       <Classes />
     </Module>
     <Module hash="D6-DA-9A-53-D7-67-8F-61-2C-EC-43-6B-5A-B2-8A-2B-70-EF-50-E1">
@@ -654,6 +648,12 @@
           </Methods>
         </Class>
       </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="EC-77-40-66-0D-21-57-B9-9B-2A-BF-90-5C-71-A5-2A-F8-0A-59-8E">
+      <ModulePath>C:\Git\Linker\src\Tests\bin\Release\FluentAssertions.dll</ModulePath>
+      <ModuleTime>2017-08-24T19:09:18Z</ModuleTime>
+      <ModuleName>FluentAssertions</ModuleName>
+      <Classes />
     </Module>
     <Module skippedDueTo="Filter" hash="ED-2F-6E-F4-A7-73-5E-2E-5D-FD-A9-7F-7E-1E-66-94-A4-AA-DF-B5">
       <ModulePath>C:\Git\Linker\src\Tests\bin\Release\FluentAssertions.Core.dll</ModulePath>

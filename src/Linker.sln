@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{8408F753
 		..\build\urls.cake = ..\build\urls.cake
 	EndProjectSection
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{2EA255E8-05EE-4C6A-96E7-363AA92B97C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,12 @@ Global
 		{723D59F9-DEEB-44E8-AA36-D2308CBC3998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{723D59F9-DEEB-44E8-AA36-D2308CBC3998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{723D59F9-DEEB-44E8-AA36-D2308CBC3998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA255E8-05EE-4C6A-96E7-363AA92B97C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA255E8-05EE-4C6A-96E7-363AA92B97C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA255E8-05EE-4C6A-96E7-363AA92B97C8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2EA255E8-05EE-4C6A-96E7-363AA92B97C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA255E8-05EE-4C6A-96E7-363AA92B97C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA255E8-05EE-4C6A-96E7-363AA92B97C8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
