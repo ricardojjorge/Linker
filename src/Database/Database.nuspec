@@ -7,7 +7,7 @@
     <description>NuGet package for DB</description>
   </metadata>
   <files>
-    <file src="bin/**/*.dacpac" target="Content" />
+    <file src="bin/**/*.dacpac" target="." />
     <!--<file src="Dev.publish.xml" target="Content" />
     <file src="Deploy.ps1" />-->
   </files>
