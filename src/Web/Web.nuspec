@@ -9,6 +9,8 @@
   </metadata>
   <files>
       <file src="bin\**\*" target="bin" />
+      <file src="Images\**\*" target="." />
+      <file src="Style\**\*" target="." />
       <file src="Web*.config" target="." />
   </files>
 </package>

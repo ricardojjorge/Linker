@@ -75,8 +75,8 @@
       <Classes />
     </Module>
     <Module skippedDueTo="Filter" hash="C3-D8-3E-87-AB-33-CA-6F-66-61-A7-D7-50-2C-CF-D9-C0-D1-9D-8D">
-      <ModulePath>C:\Users\rjj\AppData\Local\Temp\c104be73-ac6e-4d2c-9e62-ce9ed7365077\c104be73-ac6e-4d2c-9e62-ce9ed7365077\assembly\dl3\5dc5ed97\0024d1eb_dc4ed301\xunit.runner.utility.net452.dll</ModulePath>
-      <ModuleTime>2017-12-21T16:43:22.3978253Z</ModuleTime>
+      <ModulePath>C:\Users\rjj\AppData\Local\Temp\1e4710a3-6f93-4a75-8553-9ab9199e8ef9\1e4710a3-6f93-4a75-8553-9ab9199e8ef9\assembly\dl3\5f909c3b\0024d1eb_dc4ed301\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2017-12-21T17:40:58.0402264Z</ModuleTime>
       <ModuleName>xunit.runner.utility.net452</ModuleName>
       <Classes />
     </Module>
@@ -98,9 +98,9 @@
       <ModuleName>Anonymously Hosted DynamicMethods Assembly</ModuleName>
       <Classes />
     </Module>
-    <Module skippedDueTo="Filter" hash="07-30-5E-53-88-B9-3E-36-41-DE-EA-63-F8-F5-C4-67-0C-EA-00-48">
+    <Module skippedDueTo="Filter" hash="D5-0F-10-7A-F8-05-88-A5-54-BE-3A-4B-2F-5A-49-19-33-CF-33-12">
       <ModulePath>C:\Git\Linker\src\Tests\bin\Release\Linker.Tests.dll</ModulePath>
-      <ModuleTime>2017-12-21T16:00:12.3893451Z</ModuleTime>
+      <ModuleTime>2017-12-21T17:00:07.7718428Z</ModuleTime>
       <ModuleName>Linker.Tests</ModuleName>
       <Classes />
     </Module>
@@ -128,9 +128,9 @@
       <ModuleName>System</ModuleName>
       <Classes />
     </Module>
-    <Module skippedDueTo="Filter" hash="07-30-5E-53-88-B9-3E-36-41-DE-EA-63-F8-F5-C4-67-0C-EA-00-48">
+    <Module skippedDueTo="Filter" hash="D5-0F-10-7A-F8-05-88-A5-54-BE-3A-4B-2F-5A-49-19-33-CF-33-12">
       <ModulePath>C:\Git\Linker\src\Tests\bin\Release\Linker.Tests.dll</ModulePath>
-      <ModuleTime>2017-12-21T16:00:12.3893451Z</ModuleTime>
+      <ModuleTime>2017-12-21T17:00:07.7718428Z</ModuleTime>
       <ModuleName>Linker.Tests</ModuleName>
       <Classes />
     </Module>
@@ -170,10 +170,10 @@
       <ModuleName>System.Collections</ModuleName>
       <Classes />
     </Module>
-    <Module hash="2F-CF-C9-DF-5A-0D-8B-0E-1D-C5-A9-7D-7D-5E-9A-C9-58-9E-27-D0">
+    <Module hash="52-46-04-F2-52-A7-2E-B5-47-67-5C-2A-51-D1-91-71-8C-2A-92-A0">
       <Summary numSequencePoints="14" visitedSequencePoints="14" numBranchPoints="8" visitedBranchPoints="8" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" visitedClasses="2" numClasses="2" visitedMethods="8" numMethods="8" />
       <ModulePath>C:\Git\Linker\src\Tests\bin\Release\Linker.Model.dll</ModulePath>
-      <ModuleTime>2017-12-21T15:24:03.7737846Z</ModuleTime>
+      <ModuleTime>2017-12-21T17:00:06.2402241Z</ModuleTime>
       <ModuleName>Linker.Model</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Git\Linker\src\Model\Link.cs" />
@@ -305,10 +305,10 @@
       <ModuleName>FluentAssertions</ModuleName>
       <Classes />
     </Module>
-    <Module hash="41-C7-71-5E-B3-7E-01-1F-23-DA-85-D8-C0-2A-C0-EF-C8-97-F1-A4">
+    <Module hash="D6-DA-9A-53-D7-67-8F-61-2C-EC-43-6B-5A-B2-8A-2B-70-EF-50-E1">
       <Summary numSequencePoints="43" visitedSequencePoints="16" numBranchPoints="20" visitedBranchPoints="10" sequenceCoverage="37.21" branchCoverage="50" maxCyclomaticComplexity="4" minCyclomaticComplexity="1" visitedClasses="1" numClasses="8" visitedMethods="6" numMethods="16" />
       <ModulePath>C:\Git\Linker\src\Tests\bin\Release\Linker.Web.dll</ModulePath>
-      <ModuleTime>2017-12-21T15:30:18.3196035Z</ModuleTime>
+      <ModuleTime>2017-12-21T17:00:06.7135719Z</ModuleTime>
       <ModuleName>Linker.Web</ModuleName>
       <Files>
         <File uid="5" fullPath="C:\Git\Linker\src\Web\Startup.cs" />
