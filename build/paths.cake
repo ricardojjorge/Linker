@@ -4,7 +4,7 @@ public static class Paths
     public static FilePath CodeCoverageResultFile => "coverage.xml";
     public static DirectoryPath CodeCoverageReportDirectory => "coverage";
     public static FilePath WebNuspecFile => "src/Web/Web.nuspec";
-    public static FilePath WebProjectFile => "src/Web/Web.csproj";
+    public static FilePath DatabaseNuspecFile => "src/Database/Database.nuspec";
 }
 
 public static FilePath Combine(DirectoryPath directory, FilePath file)

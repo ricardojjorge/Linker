@@ -71,3 +71,6 @@ nCrunchTemp_*
 # Cake
 tools/**
 !tools/packages.config
+*.dbmdl
+*.jfm
+*.refactorlog
