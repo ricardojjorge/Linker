@@ -137,9 +137,7 @@ Task("Deploy-OctopusDeploy")
         new OctopusPushSettings
         {
             ReplaceExisting = true
-        });
-
-    
+        });    
 
     OctoCreateRelease(
         "Linker",
